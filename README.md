@@ -39,4 +39,10 @@ The sequence will always reach 1. 🏁
 $ git clone https://github.com/skuantaiuly/Syracuse.git
 ```
 
+## Author
+
+Kuantaiuly Salamat
+
+11/2022, developed on IPython and Jupyter Notebook, Visual Studio Code
+
 
