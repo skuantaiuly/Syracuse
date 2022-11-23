@@ -36,7 +36,7 @@ The sequence will always reach 1. 🏁
 ## Clone this repository :
 
 ```
-git clone https://github.com/skuantaiuly/Syracuse.git
+$ git clone https://github.com/skuantaiuly/Syracuse.git
 ```
 
 
