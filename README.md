@@ -33,6 +33,26 @@ The sequence will always reach 1. 🏁
 + Solution in Python 3.10.6:
 [Syracuse.py](https://github.com/skuantaiuly/Syracuse/blob/main/Syracuse.py)
 
+#### Additional libraries used for visualization:
+
+Seaborn
+
+```
+pip install seaborn
+```
+
+Matplotlib
+
+```
+pip install matplotlib
+```
+
+Plotext
+
+```
+pip install plotext
+```
+
 ## Clone this repository :
 
 ```
