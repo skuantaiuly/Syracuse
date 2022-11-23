@@ -27,8 +27,11 @@ The sequence will always reach 1. 🏁
 
 ## Solution
 
-Solution in IPython:
++ Solution in IPython Notebook 8.5.0:
 [Syracuse.ipynb](https://github.com/skuantaiuly/Syracuse/blob/main/Syracuse.ipynb)
+
++ Solution in Python 3.10.6:
+[Syracuse.py](https://github.com/skuantaiuly/Syracuse/blob/main/Syracuse.py)
 
 ## Clone this repository :
 
