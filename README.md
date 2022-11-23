@@ -28,7 +28,7 @@ The sequence will always reach 1. 🏁
 ## Solution
 
 Solution on IPython:
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Syracuse.ipynb](https://github.com/skuantaiuly/Syracuse/Syracuse.ipynb)
 
 ## Clone this repository :
 
